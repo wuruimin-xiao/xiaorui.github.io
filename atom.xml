@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaorui.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-28T10:55:08.620Z</updated>
+    <title>是秋麦na</title>
+    <updated>2020-06-28T12:49:22.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaorui.github.io"/>
     <link rel="self" href="https://xiaorui.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>分享小语种学习经验以及资料</subtitle>
     <logo>https://xiaorui.github.io/images/avatar.png</logo>
     <icon>https://xiaorui.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 是秋麦na</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xiaorui.github.io/post/hello-gridea/</id>
