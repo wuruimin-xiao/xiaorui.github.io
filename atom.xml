@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaorui.github.io</id>
     <title>是秋麦na</title>
-    <updated>2020-07-15T11:37:58.505Z</updated>
+    <updated>2020-07-15T11:40:18.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaorui.github.io"/>
     <link rel="self" href="https://xiaorui.github.io/atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://xiaorui.github.io/post/bi-ji-zhu-wo-de-ni-xi-zhi-dao/">
         </link>
         <updated>2020-07-15T11:31:22.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xiaorui.github.io/post-images/1594812870262.jpg" alt="" loading="lazy"></figure>
-<p>说起笔记这个东西，相信大家并不陌生， 甚至我们每个人都觉得它很简单，毕竟我们从很小的时候，就一直在记笔记了，但你真的会记笔记吗？你真的已经认识到笔记对你的重要性了吗？</p>
+        <summary type="html"><![CDATA[<p>说起笔记这个东西，相信大家并不陌生， 甚至我们每个人都觉得它很简单，毕竟我们从很小的时候，就一直在记笔记了，但你真的会记笔记吗？你真的已经认识到笔记对你的重要性了吗？</p>
+<figure data-type="image" tabindex="1"><img src="https://xiaorui.github.io/post-images/1594812870262.jpg" alt="" loading="lazy"></figure>
 <p>你是否曾经出现过这样的以下问题：</p>
 <p>工作中经常忘记老板给自己的任务，直到最后才想起来，然后不得不临时抱佛脚。</p>
 <p>自己做的笔记，某一天你想用的时候，却发现怎么也找不到它</p>
@@ -52,8 +52,8 @@
 <p>当然啦，这里给大家推荐的这款软件，是我用的比较多的笔记软件，市面上也用很多记笔记的软件，例如：苹果自带的备忘录现在也很强大，有道云笔记...等等，可供选择性很多，大家使用一个，一个，一个自己喜欢的电子笔记就好。这里就推荐下印象就好啦·<sub>电子笔记的功能也都大同小异</sub></p>
 <p>好啦，</p>
 ]]></summary>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xiaorui.github.io/post-images/1594812870262.jpg" alt="" loading="lazy"></figure>
-<p>说起笔记这个东西，相信大家并不陌生， 甚至我们每个人都觉得它很简单，毕竟我们从很小的时候，就一直在记笔记了，但你真的会记笔记吗？你真的已经认识到笔记对你的重要性了吗？</p>
+        <content type="html"><![CDATA[<p>说起笔记这个东西，相信大家并不陌生， 甚至我们每个人都觉得它很简单，毕竟我们从很小的时候，就一直在记笔记了，但你真的会记笔记吗？你真的已经认识到笔记对你的重要性了吗？</p>
+<figure data-type="image" tabindex="1"><img src="https://xiaorui.github.io/post-images/1594812870262.jpg" alt="" loading="lazy"></figure>
 <p>你是否曾经出现过这样的以下问题：</p>
 <p>工作中经常忘记老板给自己的任务，直到最后才想起来，然后不得不临时抱佛脚。</p>
 <p>自己做的笔记，某一天你想用的时候，却发现怎么也找不到它</p>
