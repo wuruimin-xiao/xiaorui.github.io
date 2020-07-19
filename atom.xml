@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaorui.github.io</id>
     <title>是秋麦na</title>
-    <updated>2020-07-15T11:42:37.129Z</updated>
+    <updated>2020-07-19T20:35:43.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaorui.github.io"/>
     <link rel="self" href="https://xiaorui.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://xiaorui.github.io/images/avatar.png</logo>
     <icon>https://xiaorui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 是秋麦na</rights>
+    <entry>
+        <title type="html"><![CDATA[PDF走遍法国学生用书pdf教师用书语法手册练习册]]></title>
+        <id>https://xiaorui.github.io/EXv2JzlIN/</id>
+        <link href="https://xiaorui.github.io/EXv2JzlIN/">
+        </link>
+        <updated>2020-07-19T20:10:33.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[笔记术，我的逆袭之道]]></title>
         <id>https://xiaorui.github.io/bi-ji-zhu-wo-de-ni-xi-zhi-dao/</id>
